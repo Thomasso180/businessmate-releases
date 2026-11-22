@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "published_at": "2026-11-22T21:31:27.195Z",
+  "runtime": {
+    "version": "0.1.0",
+    "image": "ghcr.io/thomasso180/businessmate-runtime",
+    "digest": "sha256:6e9f8c10b149163470462c947fb1e2e73ae4b0df6d264160a2592996632025f1",
+    "min_launcher": "0.2.0",
+    "notes": "Eerste versie van de BusinessMate-omgeving met de lokale werkpagina."
+  },
+  "launcher": {
+    "version": "0.2.0",
+    "notes": "",
+    "download_url": "https://mktngmate.com/download"
+  }
+}
