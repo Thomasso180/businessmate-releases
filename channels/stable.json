@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "channel": "stable",
-  "published_at": "2026-11-22T21:31:27.195Z",
+  "published_at": "2026-11-26T10:42:21.927Z",
   "runtime": {
-    "version": "0.1.0",
+    "version": "0.3.0",
     "image": "ghcr.io/thomasso180/businessmate-runtime",
-    "digest": "sha256:6e9f8c10b149163470462c947fb1e2e73ae4b0df6d264160a2592996632025f1",
+    "digest": "sha256:9d1ae14ab7c89b7613b70602c83278ae656fe6ad9bd5be30ef121ccac94eed64",
     "min_launcher": "0.2.0",
-    "notes": "Eerste versie van de BusinessMate-omgeving met de lokale werkpagina."
+    "notes": "Chat, verbruik, agents en teams, taken met planning, vaardigheden, instellingen, Hulp, browser voor agents"
   },
   "launcher": {
     "version": "0.2.0",
