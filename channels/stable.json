@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "published_at": "2026-11-26T10:42:21.927Z",
+  "published_at": "2026-11-28T07:14:10.154Z",
   "runtime": {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "image": "ghcr.io/thomasso180/businessmate-runtime",
-    "digest": "sha256:9d1ae14ab7c89b7613b70602c83278ae656fe6ad9bd5be30ef121ccac94eed64",
-    "min_launcher": "0.2.0",
-    "notes": "Chat, verbruik, agents en teams, taken met planning, vaardigheden, instellingen, Hulp, browser voor agents"
+    "digest": "sha256:13057af0714e403b7220706b4d455290b6c4568c9e49c6cb62299a6a10d1bd57",
+    "min_launcher": "0.4.0",
+    "notes": "Taken en ketens, agents helpen elkaar, bestanden, Kluis, koppelingen Google Drive/Outlook/Notion, probleem melden"
   },
   "launcher": {
-    "version": "0.2.0",
+    "version": "0.4.0",
     "notes": "",
     "download_url": "https://mktngmate.com/download"
   }
